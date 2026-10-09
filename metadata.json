@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect",
+  "description": "Your classes, timetable, attendance tracker, and campus life in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
